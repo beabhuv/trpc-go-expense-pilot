@@ -25,6 +25,14 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+
+# terraform
+/.terraform/
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
 # OS generated
 .DS_Store
 Thumbs.db
+AWSCLIV2.pkg
