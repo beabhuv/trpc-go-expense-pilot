@@ -1,0 +1,8 @@
+replicaCount: 1
+image:
+  repository: 717340753242.dkr.ecr.us-east-1.amazonaws.com/expense-tool-frontend
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  type: ClusterIP
+  port: 3000
