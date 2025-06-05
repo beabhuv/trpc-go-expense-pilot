@@ -1,0 +1,62 @@
+{
+    "imageDetails": [
+        {
+            "registryId": "717340753242",
+            "repositoryName": "expense-tool-backend",
+            "imageDigest": "sha256:784d1584838ba3210efd1d811d4424f68c46a926d30e37a22458b5814342421a",
+            "imageSizeInBytes": 9990292,
+            "imagePushedAt": "2025-06-04T20:27:50.055000-07:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json",
+            "lastRecordedPullTime": "2025-06-04T20:29:11.650000-07:00"
+        },
+        {
+            "registryId": "717340753242",
+            "repositoryName": "expense-tool-backend",
+            "imageDigest": "sha256:8d194d90826e849b6691e9dee9d7df13cdf9e2c814584b4cd8b8b323e273a494",
+            "imageSizeInBytes": 9990292,
+            "imagePushedAt": "2025-06-04T20:32:01.865000-07:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        },
+        {
+            "registryId": "717340753242",
+            "repositoryName": "expense-tool-backend",
+            "imageDigest": "sha256:b1754ab8dedee8b07a66180b8e77582b8ea838c672b30d2be0c5f67be4656d58",
+            "imageSizeInBytes": 9990293,
+            "imagePushedAt": "2025-06-04T21:30:38.104000-07:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        },
+        {
+            "registryId": "717340753242",
+            "repositoryName": "expense-tool-backend",
+            "imageDigest": "sha256:a3306f6392b6c77e2aef7113e7ed336f8113a278747561d12fe83a3146d2ab49",
+            "imageSizeInBytes": 9990292,
+            "imagePushedAt": "2025-06-04T20:27:41.415000-07:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        },
+        {
+            "registryId": "717340753242",
+            "repositoryName": "expense-tool-backend",
+            "imageDigest": "sha256:04122a26d107c85a40325647fe508b5697fca385bdce813c183ee95f238f06d0",
+            "imageSizeInBytes": 9990291,
+            "imagePushedAt": "2025-06-04T20:31:55.068000-07:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        },
+        {
+            "registryId": "717340753242",
+            "repositoryName": "expense-tool-backend",
+            "imageDigest": "sha256:a436afe0a0f8a5ed8d5159dbf64845d1305148406c9e4ed985293bc4594a2e49",
+            "imageTags": [
+                "latest"
+            ],
+            "imageSizeInBytes": 9990292,
+            "imagePushedAt": "2025-06-04T21:30:39.244000-07:00",
+            "imageManifestMediaType": "application/vnd.docker.distribution.manifest.v2+json",
+            "artifactMediaType": "application/vnd.docker.container.image.v1+json"
+        }
+    ]
+}
