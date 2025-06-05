@@ -1,6 +1,6 @@
 replicaCount: 1
 image:
-  repository: 948400808715.dkr.ecr.us-east-1.amazonaws.com/expense-tool-backend
+  repository: 717340753242.dkr.ecr.us-east-1.amazonaws.com/expense-tool-backend
   tag: latest
   pullPolicy: IfNotPresent
 service:
